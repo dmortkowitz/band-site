@@ -1,0 +1,20 @@
+img{
+  float:left;
+  padding: 10px;
+}
+
+p{
+  width: 55%
+}
+
+ul {
+  float: right;
+  width: 20%;
+  background-color: red;
+  list-style-type: none;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
